@@ -4,7 +4,7 @@
 This project is a Master-Details CRUD application built with ASP.NET Core, Entity Framework Core 8.0.8, and jQuery, Ajax. It demonstrates how to perform Create, Read, Update, and Delete operations in a master-details relationship using modern web technologies.
 
 
-# Hi, I'm Sajjad Hossan Riad!👋
+# Hi, I'm Sajjad Hossan Riad!
 
 
 ## Installation
@@ -17,7 +17,7 @@ Run this command in Terminal or Gitbash!
     
 ## Key Features
 - ASP.NET Core MVC
-- Entity Framework Core 8.0.6 for data access
+- Entity Framework Core 8.0.8 for data access
 - jQuery and Ajax for asynchronous operations
 - Bootstrap for responsive design
 - .NET SDK 6.0 or later
