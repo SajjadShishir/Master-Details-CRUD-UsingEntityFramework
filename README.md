@@ -10,7 +10,7 @@ Bootstrap for responsive design
 Visual Studio 2022 or later / Visual Studio Code
 Microsoft SQL Server for Database
 
-#Installation
+Installation
 Clone the repository:
 Run this command in Terminal or Gitbash! git clone https://github.com/SajjadShishir/Master-Details-CRUD-UsingEntityFramework.git
-Open the project in Visual Studio 2022:
+Open the project in Visual Studio
