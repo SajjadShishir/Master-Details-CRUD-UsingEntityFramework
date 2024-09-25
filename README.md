@@ -18,6 +18,8 @@ Run this command in Terminal or Gitbash!
 ## Key Features
 - ASP.NET Core MVC
 - Entity Framework Core 8.0.8 for data access
+- Store procedure for Insert and Update Data
+- Aggregate Function for calculate course fee
 - jQuery and Ajax for asynchronous operations
 - Bootstrap for responsive design
 - .NET SDK 6.0 or later
